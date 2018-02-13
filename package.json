@@ -1,0 +1,22 @@
+{
+    "name": "csit-cpp-dev",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "g++ -o test.out test.cpp -std=c++11 && ./test.out | tee  report.txt",
+        "main": "g++ -o main.out main.cpp .cpp -std=c++14 && ./main.out | tee report.txt",
+        "build": "rm  -rf ./*.zip && zip -r -X programmer_name_assignment.zip ./*.h ./*.cpp ./report.txt",
+        "unbuild": "rm -rf ./unzipped/* && unzip *.zip -d ./unzipped"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BaReinhard/CSIT-CPP-Dev.git"
+    },
+    "author": "Brett Reinhard <brett@reinhards.us> (http://brettreinhard.com)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BaReinhard/CSIT-CPP-Dev/issues"
+    },
+    "homepage": "https://github.com/BaReinhard/CSIT-CPP-Dev#readme"
+}

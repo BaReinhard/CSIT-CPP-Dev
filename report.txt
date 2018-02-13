@@ -1,0 +1,23 @@
+
+Hi, I am really good at math! Put me to the test.
+Please enter a total of two numbers, first number: 
+And now the second number: Please enter one of the operations +, -, * or / and press Enter: 2.3 * 5.6 = 12.88
+Play again [Y/N]?: 
+Hi, I am really good at math! Put me to the test.
+Please enter a total of two numbers, first number: 
+And now the second number: Please enter one of the operations +, -, * or / and press Enter: 99 - 3.23 = 95.77
+Play again [Y/N]?: 
+Hi, I am really good at math! Put me to the test.
+Please enter a total of two numbers, first number: 
+And now the second number: Please enter one of the operations +, -, * or / and press Enter: 
+I can compute really well, but what you entered is not one of the operations I know ...
+Please enter one of the operations +, -, * or / and press Enter: 4 * 5 = 20
+Play again [Y/N]?: 
+Hi, I am really good at math! Put me to the test.
+Please enter a total of two numbers, first number: 
+And now the second number: Please enter one of the operations +, -, * or / and press Enter: 3 / 4 = 0.75
+Play again [Y/N]?: 
+Hi, I am really good at math! Put me to the test.
+Please enter a total of two numbers, first number: 
+And now the second number: Please enter one of the operations +, -, * or / and press Enter: 4 + 5 = 9
+Play again [Y/N]?: Bye bye!

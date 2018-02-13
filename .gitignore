@@ -1,0 +1,4 @@
+*.out
+cstack*
+test.cpp
+reinh*
