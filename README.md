@@ -2,6 +2,16 @@
 
 A light weight dev setup for Visual C++. Mainly just makes compiling, running, and zipping files easier.
 
+## Installation:
+
+1. Open a Terminal
+2. Use the following commands to install the repo
+```
+git clone https://github.com/BaReinhard/CSIT-CPP-Dev
+cd CSIT-CPP-Dev
+# Begin Developing
+```
+
 ## Usage:
 
 1. Open a terminal in the root of the folder.
